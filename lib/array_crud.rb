@@ -5,6 +5,8 @@ end
 
 def create_an_array
 
+  friends = ['meg', 'tara', 'liza', 'bonnie']
+
 end
 
 def add_element_to_end_of_array(array, element)
